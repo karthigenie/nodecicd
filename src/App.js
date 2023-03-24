@@ -18,7 +18,7 @@ function App() {
           Learn React CICD test 8
         </a>
       </header>
-    </div>
+
   );
 }
 
